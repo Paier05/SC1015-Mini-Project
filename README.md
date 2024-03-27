@@ -12,7 +12,8 @@ The dataset provides approximately 245k survey responses on diabetes collected b
 # Methodology
 <h2>1. Data Cleaning</h2>
 Since our original dataset is huge, we reduce the size of our dataset by half through random split. We also did some modification on the data for us to work on the machine learning more efficiently.
-<h2>2. Exploratory Data Analysis</h2> <br>
+<h2>2. Exploratory Data Analysis</h2>
+
 # Results
 # Conclusion
 # What we learn from this project? 
