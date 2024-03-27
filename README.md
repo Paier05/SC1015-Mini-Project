@@ -10,9 +10,9 @@ In our project, we aim to predict the probability of one getting diabetes by age
 The dataset used can be found <a href = "https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset?select=diabetes_012_health_indicators_BRFSS2015.csv" >here</a>. <br>
 The dataset provides approximately 245k survey responses on diabetes collected by Centers for Disease Control and Prevention (CDC) under the Behavioral Risk Factor Surveillance System (BRFSS). Detailed explanation of the feature variables in the dataset can be found <a href = "">here</a>.
 # Methodology
-<h3 href = "https://github.com/Paier05/SC1015-Mini-Project/blob/main/Data%20Cleaning.ipynb", color = "Red">1. Data Cleaning</h3>
+<h3 href = "https://github.com/Paier05/SC1015-Mini-Project/blob/main/Data%20Cleaning.ipynb", color = "R">1. Data Cleaning</h3>
 Since our original dataset is huge, we reduce the size of our dataset by half through random split. We also did some modification on the data for us to work on the machine learning more efficiently.
-<h3 href = "https://github.com/Paier05/SC1015-Mini-Project/blob/main/EDA.ipynb", color = "Red">2. Exploratory Data Analysis</h3>
+<h3 href = "https://github.com/Paier05/SC1015-Mini-Project/blob/main/EDA.ipynb", color = "R">2. Exploratory Data Analysis</h3>
 
 # Results
 # Conclusion
