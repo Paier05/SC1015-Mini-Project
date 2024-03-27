@@ -4,7 +4,7 @@ Tan Ming Hao (@Paier05) - <br>
 Cho Zhi Wei (@ChoWei0310) - <br>
 Lai Xin Yee (@CLXYee) - <br>
 # Overview
-With the development of modern society and the change in lifestyle, diabetes, as one of the most prevalent chronic disease, shows sign of rejuvenation. Based on the report by Diabetes Singapore (2022), the number of people with diabetes is estimated to grow up to 1 million by the year 2025. This accounts for 10% disease burdens in Singapore. Hence, diabetes prevention and early detection to prevent diagnose diabetes is crucial. <br>
+With the development of modern society and the change in lifestyle, diabetes, as one of the most prevalent chronic disease, shows sign of rejuvenation. Based on the report by Diabetes Singapore (2022), the number of people with diabetes is estimated to grow up to 1 million by the year 2050. This accounts for 10% disease burdens in Singapore. Hence, diabetes prevention and early detection to prevent diagnose diabetes is crucial. <br>
 In our project, we aim to predict the probability of one getting diabetes by age, lifestyle, health conditions and other features. By this, we hope to provide insights for people to adapt a healthier lifestyle and raise awareness of the public on diabetes prevention and early detection.
 # Dataset
 The dataset used can be found <a href = "https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset?select=diabetes_012_health_indicators_BRFSS2015.csv" >here</a>. <br>
