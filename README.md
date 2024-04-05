@@ -28,9 +28,9 @@ We also evaluate on the importance of features affecting the prediction of diabe
 - The main factors causing diabetes, and the awareness of taking care of our health
 
 # Contributors
-Tan Ming Hao (@Paier05) - Data Visualisation, Exploratory Data Analysis, Overall Presentation
-Cho Zhi Wei (@ChoWei0310) - Data Cleaning, Exploratory Data Analysis, Overall Presentation
-Lai Xin Yee (@CLXYee) - Exploratory Data Analysis, Machine Learning, Feature Extraction
+Tan Ming Hao (@Paier05) - Data Visualisation, Exploratory Data Analysis, Overall Presentation <br>
+Cho Zhi Wei (@ChoWei0310) - Data Cleaning, Exploratory Data Analysis, Overall Presentation <br>
+Lai Xin Yee (@CLXYee) - Exploratory Data Analysis, Machine Learning, Feature Extraction <br>
 
 # References
 - https://www.diabetesatlas.org/data/en/country/179/sg.html
