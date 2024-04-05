@@ -18,6 +18,20 @@ We analyze our data by using different models:<br>
 We also evaluate on the importance of features affecting the prediction of diabetes in each model and compare the accuracy of the models.
 
 # Results
+Learning from the feature importance graph, we get the following order of importance for each model:
+||Log | Random | Gradient | | --- | --- | --- |--- | |Top 1 | HighBP | BMI | HighBP | |Top 2 | HighChol | Age | GenHlth | |Top 3 | GenHlth | Income | BMI | |Top 4 | HeartDiseaseorAttack | GenHlth | Age | |Top 5 | Age | PhysHlth | HighChol |
+
+Thus, we conclude that the top 8 important factors to predict diabetes are:
+
+- HighBP
+- BMI
+- HighChol
+- Age
+- GenHlth
+- Income
+- HeartDiseaseorAttack
+- PhysHlth
+
 # Conclusion
 # What did we learn from this project? 
 - Impact of unbalanced dataset
