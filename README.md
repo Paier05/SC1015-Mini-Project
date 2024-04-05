@@ -23,6 +23,9 @@ We analyse our data by using different models:<br>
 # Results
 # Conclusion
 # What we learn from this project? 
+- The use of undersampling and oversampling to due with imbalance datas
+- New models for machine learning (logistic regression, random forest, ...)
+- Project contribution through GitHub
 # References
 - https://www.diabetesatlas.org/data/en/country/179/sg.html
 - https://www.diabetes.org.sg/about-diabetes/the-singapore-demographics-of-diabetes/
