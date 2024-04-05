@@ -15,9 +15,9 @@ We modified the data types of different variables so that it is easier for us to
 <h3 href = "https://github.com/Paier05/SC1015-Mini-Project/blob/main/EDA.ipynb">2. Exploratory Data Analysis</h3>
 After cleaning up and modifying the data, we proceed to find suitable variables for our model training. We first explore the relation of variables (both numerical and categorical) with the status of diabetes by visualizing it in graphs. After analysing the graphs plotted, we sorted out the suitable variables for our use. Then, observing that the outliers of BMI may affect our model training, we removed the outliers before exporting it as a new dataset `diabetes_EDA.csv`.
 <h3 href = "https://github.com/Paier05/SC1015-Mini-Project/blob/main/Machine%20Learning.ipynb">3. Machine Learning</h3>
-We analyse our data by using different models:
-- Logistic Regression
-- Random Forest
+We analyse our data by using different models:<br>
+- Logistic Regression<br>
+- Random Forest<br>
 - 
 
 # Results
