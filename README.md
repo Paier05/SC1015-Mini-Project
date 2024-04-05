@@ -19,7 +19,13 @@ We also evaluate on the importance of features affecting the prediction of diabe
 
 # Results
 Learning from the feature importance graph, we get the following order of importance for each model:
-||Log | Random | Gradient | | --- | --- | --- |--- | |Top 1 | HighBP | BMI | HighBP | |Top 2 | HighChol | Age | GenHlth | |Top 3 | GenHlth | Income | BMI | |Top 4 | HeartDiseaseorAttack | GenHlth | Age | |Top 5 | Age | PhysHlth | HighChol |
+||Log | Random | Gradient | 
+| --- | --- | --- |--- |
+|Top 1 | HighBP | BMI | HighBP | 
+|Top 2 | HighChol | Age | GenHlth |
+|Top 3 | GenHlth | Income | BMI | 
+|Top 4 | HeartDiseaseorAttack | GenHlth | Age | 
+|Top 5 | Age | PhysHlth | HighChol |
 
 Thus, we conclude that the top 8 important factors to predict diabetes are:
 
