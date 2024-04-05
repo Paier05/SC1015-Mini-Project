@@ -18,7 +18,7 @@ We analyze our data by using different models:<br>
 We also evaluate on the importance of features affecting the prediction of diabetes in each model and compare the accuracy of the models.
 
 # Results
-Learning from the feature importance graph, we get the following order of importance for each model:
+After comparing the three models we used, we found that the accuracy of the three models are almost the same. However, as shown in the graph, the training accuracy of the random forest model is significantly the highest. From our discussion, this might be due to overfitting of the training dataset. Learning from the feature importance graph, we get the following order of importance for each model:
 ||Log | Random | Gradient | 
 | --- | --- | --- |--- |
 |Top 1 | HighBP | BMI | HighBP | 
