@@ -39,6 +39,8 @@ Thus, we conclude that the top 8 important factors to predict diabetes are:
 - PhysHlth
 
 # Conclusion
+Nowadays, people are more and more concerned about diabetes as it is detrimental to our daily lives if we have it. Comparing all the factors causing diabetes, we could find that most of the factors that are highly relevant to diabetes actually can be controlled by ourselves. Even changing the different models, the factors causing diabetes are almost the same. As such, diabetes, or other chronic diseases, should be should be prevented by ourselves but not controlled by medicine after having those diseases.
+
 # What did we learn from this project? 
 - Impact of unbalanced dataset
 - The use of undersampling and oversampling to due with imbalanced data
