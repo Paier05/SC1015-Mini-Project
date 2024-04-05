@@ -10,10 +10,15 @@ Our project aims to predict the probability of one getting diabetes by different
 The dataset used can be found <a href = "https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset?select=diabetes_012_health_indicators_BRFSS2015.csv" >here</a>. <br>
 The dataset provides approximately 245k survey responses on diabetes collected by the Centers for Disease Control and Prevention (CDC) under the Behavioral Risk Factor Surveillance System (BRFSS). Detailed explanation of the feature variables in the dataset can be found <a href = "https://github.com/Paier05/SC1015-Mini-Project/blob/main/Description%20of%20Variables.xlsx">here</a>.
 # Methodology
-<h3 href = "https://github.com/Paier05/SC1015-Mini-Project/blob/main/Data%20Cleaning.ipynb", style = "color:red">1. Data Cleaning</h3>
-Since our original dataset is huge, we reduced the size of our dataset by half through random split. We also did some modifications to the data for us to work on the machine learning more efficiently.
-<h3 href = "https://github.com/Paier05/SC1015-Mini-Project/blob/main/EDA.ipynb", style = "color:red">2. Exploratory Data Analysis</h3>
-After doing some modifications to our data, on this topic, we aim to find suitable data for our model training. We first explore the correlation of variables (both numerical and categorical) with the status of diabetes by visualizing it in the graph. After learning every graph plotted, we sorted out the suitable variables for our use which are HighBP, HighChol, Sex, PhysActivity, DiffWalk, BMI, GenHlth, PhysHlth, Age and Income. Then, observing that the outliers of BMI may affect our model training, we clean the outliers. 
+<h3 href = "https://github.com/Paier05/SC1015-Mini-Project/blob/main/Data%20Cleaning.ipynb">1. Data Cleaning</h3>
+We modified the data types of different variables so that it is easier for us to carry out the data analysis. We also found that there is a significant unbalance between the amount of datas for diabetes and non-diabetes patients. In order to make the amount of data equal for more efficient analysis, we used the `undersampling` method to reduce the amount of datas for non-diabetes patients. Lastly, we export the new dataset as `resampled.csv`.
+<h3 href = "https://github.com/Paier05/SC1015-Mini-Project/blob/main/EDA.ipynb">2. Exploratory Data Analysis</h3>
+After cleaning up and modifying the data, we proceed to find suitable variables for our model training. We first explore the relation of variables (both numerical and categorical) with the status of diabetes by visualizing it in graphs. After analysing the graphs plotted, we sorted out the suitable variables for our use. Then, observing that the outliers of BMI may affect our model training, we removed the outliers before exporting it as a new dataset `diabetes_EDA.csv`.
+<h3 href = "https://github.com/Paier05/SC1015-Mini-Project/blob/main/Machine%20Learning.ipynb">3. Machine Learning</h3>
+We analyse our data by using different models:
+- Logistic Regression
+- Random Forest
+- 
 
 # Results
 # Conclusion
@@ -21,3 +26,4 @@ After doing some modifications to our data, on this topic, we aim to find suitab
 # References
 - https://www.diabetesatlas.org/data/en/country/179/sg.html
 - https://www.diabetes.org.sg/about-diabetes/the-singapore-demographics-of-diabetes/
+- https://semaphoreci.com/blog/imbalanced-data-machine-learning-python
