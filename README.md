@@ -18,7 +18,7 @@ After cleaning up and modifying the data, we proceed to find suitable variables 
 We analyse our data by using different models:<br>
 - Logistic Regression<br>
 - Random Forest<br>
-- 
+- Gradient Boosting<be>
 
 # Results
 # Conclusion
@@ -26,6 +26,8 @@ We analyse our data by using different models:<br>
 - The use of undersampling and oversampling to due with imbalance datas
 - New models for machine learning (logistic regression, random forest, ...)
 - Project contribution through GitHub
+- The impact of overfitting
+- The main factors causing diabetes, and the awareness of taking care of our health
 # References
 - https://www.diabetesatlas.org/data/en/country/179/sg.html
 - https://www.diabetes.org.sg/about-diabetes/the-singapore-demographics-of-diabetes/
