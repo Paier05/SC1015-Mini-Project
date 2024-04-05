@@ -1,8 +1,4 @@
 # SC1015-Mini-Project_FDDC_Group1
-# Contributors
-Tan Ming Hao (@Paier05) - <br>
-Cho Zhi Wei (@ChoWei0310) - <br>
-Lai Xin Yee (@CLXYee) - <br>
 # Overview
 With the development of modern society and the change in lifestyle, diabetes, as one of the most prevalent chronic diseases, shows signs of rejuvenation. Based on the report by Diabetes Singapore (2022), the number of people with diabetes is estimated to grow up to 1 million by the year 2050. This accounts for 10% of disease burdens in Singapore. Hence, diabetes prevention and early detection to prevent and diagnose diabetes is crucial. <br><br>
 Our project aims to predict the probability of one getting diabetes by different variables. By this, we hope to provide insights for people to adopt a healthier lifestyle and raise awareness among the public on diabetes prevention and early detection.
@@ -18,16 +14,24 @@ After cleaning up and modifying the data, we proceed to find suitable variables 
 We analyse our data by using different models:<br>
 - Logistic Regression<br>
 - Random Forest<br>
-- Gradient Boosting<be>
+- Gradient Boosting<br>
+We also evaluate on the importance of features affecting the prediction of diabetes in each model and compare the accuracy of the models.
 
 # Results
 # Conclusion
 # What we learn from this project? 
+- Impact of unbalanced dataset
 - The use of undersampling and oversampling to due with imbalance datas
-- New models for machine learning (logistic regression, random forest, ...)
+- New models for machine learning (logistic regression, random forest, gradient boosting)
 - Project contribution through GitHub
 - The impact of overfitting
 - The main factors causing diabetes, and the awareness of taking care of our health
+
+# Contributors
+Tan Ming Hao (@Paier05) - Data Visualisation, Exploratory Data Analysis, Overall Presentation
+Cho Zhi Wei (@ChoWei0310) - Data Cleaning, Exploratory Data Analysis, Overall Presentation
+Lai Xin Yee (@CLXYee) - Exploratory Data Analysis, Machine Learning, Feature Extraction
+
 # References
 - https://www.diabetesatlas.org/data/en/country/179/sg.html
 - https://www.diabetes.org.sg/about-diabetes/the-singapore-demographics-of-diabetes/
