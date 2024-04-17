@@ -1,7 +1,8 @@
 # SC1015-Mini-Project_FDDC_Group1
 # Overview
 With the development of modern society and the change in lifestyle, diabetes, as one of the most prevalent chronic diseases, shows signs of rejuvenation. According to an article by CNA(2023), the number of diabetes patients who are 30 years old is increasing at an alarming rate nowadays. Based on the report by Diabetes Singapore (2022), the number of people with diabetes is estimated to grow up to 1 million by the year 2050. This accounts for 10% of disease burdens in Singapore. Hence, diabetes prevention and early detection to prevent and diagnose diabetes is crucial. <br><br>
-Our project aims to predict the probability of one getting diabetes by different variables. By this, we hope to provide insights for people to adopt a healthier lifestyle and raise awareness among the public on diabetes prevention and early detection.
+# Problem Statement and Aim
+Our project aims to identify the main factors that contributes to diabetes. By this, we hope to provide insights for people to adopt a healthier lifestyle and raise awareness among the public on diabetes prevention and early detection.
 # Dataset
 The dataset used can be found <a href = "https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset?select=diabetes_012_health_indicators_BRFSS2015.csv" >here</a>. <br>
 The dataset provides approximately 250k survey responses on diabetes collected by the Centers for Disease Control and Prevention (CDC) under the Behavioral Risk Factor Surveillance System (BRFSS). A detailed explanation of the feature variables in the dataset can be found <a href = "https://github.com/Paier05/SC1015-Mini-Project/blob/main/0.%20Description%20of%20Variables.xlsx">here</a>.
